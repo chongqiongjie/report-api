@@ -1,0 +1,8 @@
+import report.api.Data
+
+model {
+	Iterable<Data> dataList
+}
+
+json tmpl.data(dataList ?: [])
+

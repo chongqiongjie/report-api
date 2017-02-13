@@ -1,0 +1,7 @@
+import report.api.Report
+
+model {
+	Report report
+}
+
+json g.render(report)

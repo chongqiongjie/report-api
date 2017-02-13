@@ -1,0 +1,7 @@
+import report.api.Selector
+
+model {
+	Selector selector
+}
+
+json g.render(selector)

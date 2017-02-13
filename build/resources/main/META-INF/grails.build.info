@@ -1,0 +1,6 @@
+#Wed, 25 Jan 2017 13:45:43 +0800
+
+info.app.version=0.1
+info.app.name=report-api
+grails.env=development
+info.app.grailsVersion=3.2.3

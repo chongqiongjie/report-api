@@ -1,0 +1,7 @@
+import report.api.Project
+
+model {
+	Project project
+}
+
+json g.render(project)

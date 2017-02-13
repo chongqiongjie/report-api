@@ -1,0 +1,7 @@
+import report.api.Data
+
+model {
+	Data data
+}
+
+json g.render(data)

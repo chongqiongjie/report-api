@@ -1,0 +1,8 @@
+import report.api.Selector
+
+model {
+	Iterable<Selector> selectorList
+}
+
+json tmpl.selector(selectorList ?: [])
+
